@@ -4,3 +4,7 @@ eth-account
 trie
 eth_utils
 py-trie
+ipfshttpclient
+coincurve
+libp2p
+leveldb
