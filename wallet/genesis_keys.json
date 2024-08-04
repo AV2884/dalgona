@@ -1,0 +1,52 @@
+[
+    {
+        "private_key": "f5b859f538ea45ad98753d9d2ca70af59cafbc54e92ae5e554b7d0a148f9273e",
+        "public_address": "0x57a8e49eb1A10646d4C068968A99f965b4d04409",
+        "initial_balance": 1000000000
+    },
+    {
+        "private_key": "65b1670d3e899d58033ae50a3764fcec8c7afee52cfcbcf48fa5823ba3b0176f",
+        "public_address": "0x5f613E98A4d89F570C1e44843fe1aBd662aF268c",
+        "initial_balance": 1000000000
+    },
+    {
+        "private_key": "29e1d1a1a46838a98080ac1251d3578688a52c7da7e59267094cf2e17b09305b",
+        "public_address": "0x35483F3fa516989b111882c91b2871492eB2Bc95",
+        "initial_balance": 1000000000
+    },
+    {
+        "private_key": "5e95b00688e849dac5170512bc7cbda53af44c38477a87eefa2ca48076d95178",
+        "public_address": "0x49b39F7fDFff1eD485cca0C79EBfa1A30a416821",
+        "initial_balance": 1000000000
+    },
+    {
+        "private_key": "59f9767c348084ebb3a4dfd6bcf6663a9746320fc8f663cc910aa0ec14138a91",
+        "public_address": "0xf62cb21b9Ac2a0555ee89C156bF61F0c1f587a55",
+        "initial_balance": 1000000000
+    },
+    {
+        "private_key": "038fe12c06074d6beb8dcd9df19ecff324c09b99f08bfc76036adf2e0a4e5f90",
+        "public_address": "0xaac45bEC44022AbEE76C686c26a6CD3C48AdD74e",
+        "initial_balance": 1000000000
+    },
+    {
+        "private_key": "32cd869ebd7feb6b51fdcd3b9fc89add9b2ff8a957caeaa47af8e3ec11e7ee3c",
+        "public_address": "0x5001D0F617cCF9bB70c9ba74450eB88F0F961507",
+        "initial_balance": 1000000000
+    },
+    {
+        "private_key": "fa71c8e5de414dd81d79004d0c617b73189b4d25f441ea1735c85d97396fc5a4",
+        "public_address": "0x141389173964cF81de4b40601600a57D5d79d79a",
+        "initial_balance": 1000000000
+    },
+    {
+        "private_key": "fa7b5bc295c7733d4f2135ee80e196aed8cfd53146adb0555e57ac24e22f7713",
+        "public_address": "0xa9d6b26e30a94e395C7814A5Ee966893A88A0f6f",
+        "initial_balance": 1000000000
+    },
+    {
+        "private_key": "d1c14ef9e441552e59fe0c26877297596fe9232f1adbd5873e5a94a8d686e56a",
+        "public_address": "0xbA290Cd31D7E7bD93d1Cc8aF101c11a0159a611D",
+        "initial_balance": 1000000000
+    }
+]

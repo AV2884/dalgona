@@ -1,1 +1,6 @@
 plyvel==1.5.1
+eth-keys
+eth-account
+trie
+eth_utils
+py-trie
