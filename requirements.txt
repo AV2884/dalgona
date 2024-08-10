@@ -8,3 +8,4 @@ ipfshttpclient
 coincurve
 libp2p
 leveldb
+py-ipfs-http-client
