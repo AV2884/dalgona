@@ -8,11 +8,11 @@ class IPFSClient:
         self.topic = topic
         self.id = str(uuid.uuid4())  # Unique identifier for each instance
 
-    def publish(self):
+    def publish(self,message):
         while True:
             # Create a message with the unique ID
             # message = f"Message from {self.id}: Hello from IPFS!"
-            message = input("MESSAGE :")
+            message = message
             
             # Use subprocess to run the IPFS CLI command to publish the message
             process = subprocess.run(
